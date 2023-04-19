@@ -16,4 +16,5 @@ void main(){
     printf("\nname of student 1 is -> %s\n",ptr->name);
     printf("marks of student 1 is -> %d\n",ptr->marks);
     printf("Roll number of student 1 is -> %d", ptr->roll);
+    //hello world
 }
